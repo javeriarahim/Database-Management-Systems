@@ -19,8 +19,5 @@ It demonstrates how databases are designed, managed, and queried using SQL and v
 - Any Relational DBMS (MySQL / PostgreSQL / Oracle / SQL Server)  
 - SQL Workbench / phpMyAdmin / pgAdmin (optional GUI tools)  
 ## 🚀 How to Use
-1. Clone the repository:
-    ```bash
    https://github.com/javeriarahim/Database-Management-Systems.git
-   ```bash
-   git clone https://github.com/javeriarahim/Database-Management-Systems.git
+
